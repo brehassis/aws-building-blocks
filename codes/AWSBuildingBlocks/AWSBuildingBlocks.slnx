@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/common/">
+    <Project Path="src/common/AWSBuildingBlocks.Core/AWSBuildingBlocks.Core.csproj" Id="f07df48d-a492-4767-bf92-b8e725786915" />
+  </Folder>
+  <Folder Name="/src/Platform/">
+    <Project Path="src/platform/AWSBuildingBlocks.Compute/AWSBuildingBlocks.Compute.csproj" Id="390e185d-5bbf-4eb5-986b-95caf163f920" />
+    <Project Path="src/platform/AWSBuildingBlocks.Database/AWSBuildingBlocks.Database.csproj" Id="e62cb480-167c-453e-8cb5-b9c4e22732cd" />
+    <Project Path="src/platform/AWSBuildingBlocks.Messaging/AWSBuildingBlocks.Messaging.csproj" Id="838e12a7-c797-4e46-becd-b972bfa4cfed" />
+    <Project Path="src/platform/AWSBuildingBlocks.Storage/AWSBuildingBlocks.Storage.csproj" Id="62448384-3dfb-4a87-9b0e-a1734e3ebc74" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AWSBuildingBlocks.IntegrationTests/AWSBuildingBlocks.IntegrationTests.csproj" Id="8cba6dbe-b819-43b4-abdc-58c8c334fa63" />
+    <Project Path="tests/AWSBuildingBlocks.UnitTests/AWSBuildingBlocks.UnitTests.csproj" Id="b7ec3df7-dac2-411e-ae50-9f1cde297af4" />
+  </Folder>
+</Solution>
